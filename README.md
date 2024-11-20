@@ -1,17 +1,17 @@
-## Customer Purchases Behaviour Dataset ile Keşifsel Veri Analizi
+# Customer Purchases Behaviour Dataset ile Keşifsel Veri Analizi
 
-# Projenin Amacı
+## Projenin Amacı
 Bu projenin amacı, müşteri satın alma davranışları üzerine keşifsel veri analizi (EDA) yaparak, müşterilerin satın alma alışkanlıklarını ve demografik özelliklerini anlamaktır. Proje, veri setindeki çeşitli faktörlerin müşteri davranışları üzerindeki etkilerini inceleyerek, işletmelere pazarlama stratejileri, hedef kitle analizi ve müşteri segmentasyonu gibi alanlarda içgörüler sağlamak amacıyla gerçekleştirilmiştir.
 
 Proje kapsamında müşteri verilerinin incelenmesi, satın alma alışkanlıklarına göre farklı müşteri segmentlerinin oluşturulması, demografik ve diğer faktörlere göre satın alma davranışlarının analiz edilmesi, veri görselleştirmeleri ile önemli desenlerin ve eğilimlerin ortaya konması hedeflenmiştir.
 
-# Proje Özeti
+## Proje Özeti
 -Müşterilerin demografik bilgileri ve satın alma alışkanlıkları içeren veri seti incelenmiştir.
 -Eksik veriler tespit edilip düzeltilmiş ve aykırı değerler temizlenmiştir.
 -Müşterilerin yaş, cinsiyet, gelir gibi demografik özellikleri ve bunların satın alma alışkanlıkları ile ilişkileri incelenmiştir.
 -Satın alma alışkanlıkları üzerinde çeşitli istatistiksel analizler gerçekleştirilmiştir (örneğin, yaş ve gelir ile satın alma sıklığı arasındaki ilişki).
 
-# Değişkenler
+## Değişkenler
 Değişkenlerin Açıklaması:
 -age: Müşterinin yaşı.
 -gender: Müşterinin cinsiyeti (Male Erkek, Female Kadın).
@@ -25,7 +25,7 @@ Değişkenlerin Açıklaması:
 -promotion_usage: Müşterinin promosyon tekliflerini kullanıp kullanmadığını gösterir (0 Hayır, 1 Evet).
 -satisfaction_score: Müşterinin memnuniyet puanı.
 
-# Verinin Genel Yapısı
+## Verinin Genel Yapısı
 Bu veri seti, müşteri satın alma davranışını temsil eden simüle edilmiş verileri içerir. Yaş, cinsiyet, gelir, eğitim, bölge, sadakat durumu, satın alma sıklığı, satın alma tutarı, ürün kategorisi, promosyon kullanımı ve memnuniyet puanı gibi çeşitli özellikleri içerir.
 
 Dosya Bilgisi: 
@@ -33,7 +33,7 @@ Format: .csv
 Satır Sayısı: 100000
 Sütun Sayısı: 12 
 
-#   Sütun               Non-Null Sayısı  Veri Tipi  
+     Sütun               Non-Null Sayısı  Veri Tipi  
 ---  ------              --------------  -----  
  0   id                  98084 non-null  float64
  1   age                 98042 non-null  float64
@@ -50,7 +50,7 @@ Sütun Sayısı: 12
 Veri tipi dağılımı: float64(6), object(6)
 Bellek kullanımı: 9.2+ MB
 
-# Öne Çıkan Bulgular
+## Öne Çıkan Bulgular
 -En çok tercih edilen ürün kategorisi: Electronics
 -En fazla satın alma yapan müşteri tipi: Female
 -En çok alışveriş yapılan bölge: East 
