@@ -33,7 +33,7 @@ Format: .csv
 Satır Sayısı: 100000
 Sütun Sayısı: 12 
 
-     Sütun               Non-Null Sayısı  Veri Tipi  
+   Sütun               Non-Null Sayısı  Veri Tipi  
 ---  ------              --------------  -----  
  0   id                  98084 non-null  float64
  1   age                 98042 non-null  float64
