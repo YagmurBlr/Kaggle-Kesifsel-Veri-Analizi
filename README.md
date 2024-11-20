@@ -33,20 +33,21 @@ Format: .csv
 Satır Sayısı: 100000
 Sütun Sayısı: 12 
 
-   Sütun               Non-Null Sayısı  Veri Tipi  
----  ------              --------------  -----  
- 0   id                  98084 non-null  float64
- 1   age                 98042 non-null  float64
- 2   gender              98005 non-null  object 
- 3   income              98110 non-null  float64
- 4   education           98047 non-null  object 
- 5   region              98045 non-null  object 
- 6   loyalty_status      97937 non-null  object 
- 7   purchase_frequency  98050 non-null  object 
- 8   purchase_amount     98051 non-null  float64
- 9   product_category    97924 non-null  object 
- 10  promotion_usage     97983 non-null  float64
- 11  satisfaction_score  97990 non-null  float64
+    Sütun               Non-Null Sayısı  Veri Tipi  
+    ---  ------              --------------  -----  
+    0   id                  98084 non-null  float64
+    1   age                 98042 non-null  float64
+    2   gender              98005 non-null  object 
+    3   income              98110 non-null  float64
+    4   education           98047 non-null  object 
+    5   region              98045 non-null  object 
+    6   loyalty_status      97937 non-null  object 
+    7   purchase_frequency  98050 non-null  object 
+    8   purchase_amount     98051 non-null  float64
+    9   product_category    97924 non-null  object 
+    10  promotion_usage     97983 non-null  float64
+    11  satisfaction_score  97990 non-null  float64
+    
 Veri tipi dağılımı: float64(6), object(6)
 Bellek kullanımı: 9.2+ MB
 
