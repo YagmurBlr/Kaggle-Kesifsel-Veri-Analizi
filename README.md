@@ -7,31 +7,51 @@ Proje kapsamında müşteri verilerinin incelenmesi, satın alma alışkanlıkla
 
 ## Proje Özeti
 -Müşterilerin demografik bilgileri ve satın alma alışkanlıkları içeren veri seti incelenmiştir.
+
 -Eksik veriler tespit edilip düzeltilmiş ve aykırı değerler temizlenmiştir.
+
 -Müşterilerin yaş, cinsiyet, gelir gibi demografik özellikleri ve bunların satın alma alışkanlıkları ile ilişkileri incelenmiştir.
+
 -Satın alma alışkanlıkları üzerinde çeşitli istatistiksel analizler gerçekleştirilmiştir (örneğin, yaş ve gelir ile satın alma sıklığı arasındaki ilişki).
+
 
 ## Değişkenler
 Değişkenlerin Açıklaması:
+
 -age: Müşterinin yaşı.
+
 -gender: Müşterinin cinsiyeti (Male Erkek, Female Kadın).
+
 -income: Müşterinin yıllık geliri.
+
 -education: Müşterinin eğitim seviyesi.
+
 -region: Müşterinin yaşadığı bölge.
+
 -loyalty_status: Müşterinin sadakat durumu.
+
 -purchase_frequency: Müşterinin yaptığı satın alım sıklığı.
+
 -purchase_amount: Müşterinin her satın alımda harcadığı tutar.
+
 -product_category: Satın alınan ürün kategorisi.
+
 -promotion_usage: Müşterinin promosyon tekliflerini kullanıp kullanmadığını gösterir (0 Hayır, 1 Evet).
+
 -satisfaction_score: Müşterinin memnuniyet puanı.
+
 
 ## Verinin Genel Yapısı
 Bu veri seti, müşteri satın alma davranışını temsil eden simüle edilmiş verileri içerir. Yaş, cinsiyet, gelir, eğitim, bölge, sadakat durumu, satın alma sıklığı, satın alma tutarı, ürün kategorisi, promosyon kullanımı ve memnuniyet puanı gibi çeşitli özellikleri içerir.
 
 Dosya Bilgisi: 
+
 Format: .csv
+
 Satır Sayısı: 100000
+
 Sütun Sayısı: 12 
+
 
     Sütun               Non-Null Sayısı  Veri Tipi  
     ---  ------              --------------  -----  
@@ -53,10 +73,15 @@ Veri tipi dağılımı: float64(6), object(6)
 Bellek kullanımı: 9.2+ MB
 
 ## Öne Çıkan Bulgular
+
 -En çok tercih edilen ürün kategorisi: Electronics
+
 -En fazla satın alma yapan müşteri tipi: Female
+
 -En çok alışveriş yapılan bölge: East 
+
 -En yüksek memnuniyet skoruna sahip ürün kategorisi: Home
+
 -En çok satın alma yapan yaş aralığı: 19-30
 
 
