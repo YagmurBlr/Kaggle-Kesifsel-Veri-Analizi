@@ -49,6 +49,7 @@ Sütun Sayısı: 12
     11  satisfaction_score  97990 non-null  float64
     
 Veri tipi dağılımı: float64(6), object(6)
+
 Bellek kullanımı: 9.2+ MB
 
 ## Öne Çıkan Bulgular
