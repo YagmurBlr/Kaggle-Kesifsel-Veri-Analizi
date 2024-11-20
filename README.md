@@ -84,4 +84,4 @@ Bellek kullanımı: 9.2+ MB
 
 -En çok satın alma yapan yaş aralığı: 19-30
 
-
+Projeye bu linkten ulaşabilirsiniz: https://www.kaggle.com/code/yamurbilir/eda-with-customer-purchases-behaviour-data-by-yb
